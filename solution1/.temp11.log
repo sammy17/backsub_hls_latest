@@ -1,0 +1,7 @@
+terminate called after throwing an instance of 'sc_core::sc_report'
+  what():  Error: (E5) out of bounds
+In file: /opt/Xilinx/Vivado_HLS/2015.4/lnx64/tools/systemc/include/sysc/datatypes/bit/sc_bit_proxies.h:2480
+height = 240, width = 320
+height = 240, width = 320
+Device unmapped
+Device unmapped

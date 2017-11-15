@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="@W [SCHED-68] Unable to enforce a carried dependency constraint (II = 1, distance = 1)&#xA;   between axis write on port 'outStream_V_data_V' (backsub_hls_new/core.cpp:61) and axis write on port 'outStream_V_data_V' (backsub_hls_new/core.cpp:52)." projectName="backsub_hls_new" solutionName="solution1" date="2017-11-15T17:58:40.248+0530" type="Warning"/>
+        <logs message="@W [SCHED-68] Unable to enforce a carried dependency constraint (II = 1, distance = 1)&#xA;   between axis write on port 'outStream_V_data_V' (backsub_hls_new/core.cpp:132) and axis write on port 'outStream_V_data_V' (backsub_hls_new/core.cpp:117)." projectName="backsub_hls_new" solutionName="solution1" date="2017-11-15T17:58:40.242+0530" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

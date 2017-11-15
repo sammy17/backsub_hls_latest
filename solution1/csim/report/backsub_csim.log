@@ -1,0 +1,6 @@
+   Compiling ../../../test.cpp in debug mode
+   Compiling ../../../test_cam.cpp in debug mode
+   Compiling ../../../core.cpp in debug mode
+   Generating csim.exe
+Failed to open device, OPEN: No such file or directory
+@E [SIM-1] 'csim_design' failed: nonzero return value.

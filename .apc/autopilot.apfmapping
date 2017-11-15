@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="core.h" path="/home/zynq-fyp/Desktop/HoG_IP/backsub_hls_new/core.h"/>
+    <originFiles name="core.cpp" path="/home/zynq-fyp/Desktop/HoG_IP/backsub_hls_new/core.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="cut_out.avi" path="/home/zynq-fyp/Desktop/HoG_IP/backsub_hls_new/cut_out.avi"/>
+    <originFiles name="test.cpp" path="/home/zynq-fyp/Desktop/HoG_IP/backsub_hls_new/test.cpp"/>
+    <originFiles name="test.webm" path="/home/zynq-fyp/Desktop/HoG_IP/backsub_hls_new/test.webm"/>
+    <originFiles name="test_cam.cpp" path="/home/zynq-fyp/Desktop/HoG_IP/backsub_hls_new/test_cam.cpp"/>
+    <originFiles name="test_cam.h" path="/home/zynq-fyp/Desktop/HoG_IP/backsub_hls_new/test_cam.h"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
